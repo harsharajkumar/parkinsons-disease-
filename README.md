@@ -1,3 +1,4 @@
+Randomn Forest for parkinsons Disease 
 
 This repository contains the code for training a Random Forest model to predict clinical outcomes using protein, peptide, and clinical data. The dataset consists of various clinical measurements and protein/peptide abundances, and the goal is to predict the UPDRS (Unified Parkinson's Disease Rating Scale) scores.
 
